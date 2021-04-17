@@ -1,5 +1,5 @@
 [metadata]
-name = "mmm-package-example"
+name = "mimium-package-example"
 version = "0.1.0"
 description = "An example package for mimium/mmmpm"
 authors = ["Shinichi Tanaka <shinichi.tanaka45@gmail.com>"]
